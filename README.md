@@ -61,6 +61,6 @@ Install:
 -------
 you must install node.js and npm first. 
 Then you need several additionnal nodeJS modules. Install them with npm
-'''
-npm -install <name of the module missing> 
-'''
+```
+npm -install "name of the module missing" 
+```

@@ -13,7 +13,7 @@ The package includes the flags example of mod_spdy.
 Notes:
 -----
 
-A node-spdy client which supports HTTP version negociation in clear is available at https://github.com/oln-es/spdy-server-http-upgrade. 
+A node-spdy client which supports HTTP version negociation in clear is available at https://github.com/oln-es/spdy-client-http-upgrade. 
  
 Examples: 
 --------
